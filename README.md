@@ -1,0 +1,2 @@
+# zero-ai
+Script termux
